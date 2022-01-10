@@ -27,7 +27,7 @@ for (int x:nums)
 {
   sum+=x;
 }
-System.out.print("The average of nums is ");
+//System.out.print("The average of nums is ");
 
 System.out.printf("%.1f%n",((double)sum/nums.length));
       for(int i=(nums.length)-1;i>3;i--)
